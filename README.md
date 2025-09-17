@@ -11,4 +11,4 @@ A modern, responsive portfolio website built with HTML, CSS, and JavaScript.
 The site is automatically deployed via GitHub Pages: [View Live Site](https://your-username.github.io/my-portfolio/)
 
 ## CI/CD Pipeline
-This project uses GitHub Actions for Continuous Deployment. Every push to the `main` branch triggers an automatic deployment to GitHub Pages.
+This project uses GitHub Actions for Continuous Deployment. Every push to the `main` branch triggers an automatic deployment to GitHub Pages. 
