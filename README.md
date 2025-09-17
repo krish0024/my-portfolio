@@ -12,3 +12,5 @@ The site is automatically deployed via GitHub Pages: [View Live Site](https://yo
 
 ## CI/CD Pipeline
 This project uses GitHub Actions for Continuous Deployment. Every push to the `main` branch triggers an automatic deployment to GitHub Pages.  
+
+- Successfully deployed with GitHub Actions CI/CD
